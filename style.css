@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100 100%;
+}
+
+.navigation {
+    font-size: 30px;
+    text-align: right;
+    
+}
+
+a {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+span {
+    display: table;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 23px;
+}
+
+p {
+    font-size: 18px;
+    display: table;
+    margin: 0 auto;
+}
+
+h4 {
+    display: table;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 23px;
+}
+
+h6 {
+    display: table;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.mail { 
+    font-size: 30px;
+    text-align: center;
+    position:relative; left: 400px; top:-8px
+}
+
+.discord { 
+    font-size: 30px;
+    text-align: center;
+    position:relative; left: -400px; top:70px
+}
+
+
+
