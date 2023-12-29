@@ -19,6 +19,7 @@ img {
 .navigation {
     font-size: 30px;
     text-align: right;
+    position:relative; top:-70px
     
 }
 
