@@ -43,10 +43,14 @@ nav {
     position: absolute;
     top: 0;
     right: 0;
-    padding: 30px;
+    padding: 20px;
     font-size: 30px;
     text-align: right;
     text-transform: capitalize;
+}
+
+nav,.social {
+    margin-left: 16px;
 }
 
 a {
@@ -88,4 +92,8 @@ footer p {
 
 .list a {
     color: #E2A800;
+}
+
+.lastvideo h4 {
+    margin: 15px;
 }
