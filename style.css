@@ -49,10 +49,6 @@ nav {
     text-transform: capitalize;
 }
 
-nav,.social {
-    margin-left: 16px;
-}
-
 a {
     color: rgb(29, 214, 29);
     text-decoration: none;
@@ -96,4 +92,24 @@ footer p {
 
 .lastvideo h4 {
     margin: 15px;
+}
+
+.bio {
+ height: 250px;
+ width: 250px;
+ border-color: #310e68;
+ border-radius: 15%;
+ border: 10%;
+}
+
+.projects {
+    background-color: #e056fd;
+    background-image: linear-gradient(315deg, #a415c1 0%, #2f2f2f 74%);
+    min-height: 100vh;
+    min-width: 100vh;
+}
+
+.projects p {
+    padding: 0px;
+    margin: 0px;
 }
