@@ -1,115 +1,115 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    min-height: 100vh;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
-    color: rgb(240, 240, 240);
-    text-align: center;
-    background-color: #310e68;
-    background-image: linear-gradient(316deg, #310e68 0%, #5f0f40 74%);
+  min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: rgb(240, 240, 240);
+  text-align: center;
+  background-color: #310e68;
+  background-image: linear-gradient(316deg, #310e68 0%, #5f0f40 74%);
 }
 h1,
 h2,
 h3 {
-    display: inline-block;
-    margin: 30px 0;
+  display: inline-block;
+  margin: 30px 0;
 }
 
 h1 {
-    font-size: 3rem;
+  font-size: 3rem;
 }
 
 h2 {
-    font-size: 1.9rem;
+  font-size: 1.9rem;
 }
 
 h3 {
-    font-size: 1.4rem;
+  font-size: 1.4rem;
 }
 
 img {
-    display: block;
-    width: 200px;
-    height: 200px;
-    margin: 30px auto;
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 30px auto;
 }
 
 nav {
-    position: absolute;
-    top: 0;
-    right: 0;
-    padding: 20px;
-    font-size: 30px;
-    text-align: right;
-    text-transform: capitalize;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 20px;
+  font-size: 30px;
+  text-align: right;
+  text-transform: capitalize;
 }
 
 a {
-    color: rgb(29, 214, 29);
-    text-decoration: none;
+  color: rgb(29, 214, 29);
+  text-decoration: none;
 }
 
 .list {
-    margin: 30px 0;
+  margin: 30px 0;
 }
 
 .list h3 {
-    margin: 0;
-    margin-bottom: 15px;
+  margin: 0;
+  margin-bottom: 15px;
 }
 
 footer {
-    font-size: 1.2rem;
-    margin: 30px 0;
+  font-size: 1.2rem;
+  margin: 30px 0;
 }
 
 footer p {
-    margin: 10px 0;
+  margin: 10px 0;
 }
 
 .underline {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .contact {
-    width: fit-content;
-    margin: 50px auto;
+  width: fit-content;
+  margin: 50px auto;
 }
 
 .contact p {
-    margin: 0 150px;
-    font-size: 25px;
+  margin: 0 150px;
+  font-size: 25px;
 }
 
 .list a {
-    color: #E2A800;
+  color: #e2a800;
 }
 
 .lastvideo h4 {
-    margin: 15px;
+  margin: 15px;
 }
 
 .bio {
- height: 250px;
- width: 250px;
- border-color: #310e68;
- border-radius: 15%;
- border: 10%;
+  height: 250px;
+  width: 250px;
+  border-color: #310e68;
+  border-radius: 15%;
+  border: 10%;
 }
 
 .projects {
-    background-color: #e056fd;
-    background-image: linear-gradient(315deg, #a415c1 0%, #2f2f2f 74%);
-    min-height: 100vh;
-    min-width: 100vh;
+  background-color: #e056fd;
+  background-image: linear-gradient(315deg, #a415c1 0%, #2f2f2f 74%);
+  min-height: 100vh;
+  min-width: 100vh;
 }
 
 .projects p {
-    padding: 0px;
-    margin: 0px;
+  padding: 0px;
+  margin: 0px;
 }
